@@ -1,0 +1,2 @@
+Get an average from danceability, energy, loudness, speechiness, tempo and duration_ms.
+The result of average decide the color of aurea.

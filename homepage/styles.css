@@ -1,0 +1,21 @@
+a {
+    font-size: small;
+    margin: auto;
+    text-decoration: none;
+    color: gray;
+}
+
+a:hover {
+    font-size: medium;
+}
+
+.fakeimg {
+    height: 200px;
+    width: 200px;
+    background: #aaa;
+}
+
+#footer {
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
